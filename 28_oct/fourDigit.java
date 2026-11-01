@@ -9,6 +9,7 @@ public class fourDigit {
 
         int n = sc.nextInt();
 
+        
         if (n > 999 && n < 10000) {
             System.out.println("Its a 4 digit number");
         } else {
