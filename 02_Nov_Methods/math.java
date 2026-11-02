@@ -1,6 +1,4 @@
 
-
-
 public class math {
     public static void main(String[] args) {
 
@@ -15,10 +13,11 @@ public class math {
         System.out.println(Math.floor(-3.89)); // 3.8 lies btw 3(ceil) and 4 (floor)
         System.out.println(Math.max(3, 1));
         System.out.println(Math.min(3, 1));
-        System.out.println(Math.pow(10, 2));
+        System.out.println(Math.pow(10, 2)); // number,base
+        System.out.println(Math.pow(3.1415, 3.1415));
+        
 
         // Max of 3 numbers
-        
 
     }
 
